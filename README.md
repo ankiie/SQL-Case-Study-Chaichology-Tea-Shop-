@@ -21,4 +21,4 @@ This challenge focuses on writing SQL queries to analyze customer behavior, menu
 9) Find the names of customers who had Masala Chai and identify the tea shop where they consumed it ?
 10) Find the day with the most sales ?
 
-[To see the full presentation Click here]
+[To see the full presentation Click here](https://github.com/ankiie/SQL-Case-Study-Chaichology-Tea-Shop-/blob/main/chaichology%20sql%20case%20study.pdf)
